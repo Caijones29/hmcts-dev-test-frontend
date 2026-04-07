@@ -2,7 +2,16 @@
 
 Part 2 of the HMCTS Developer Challenge
 
-This is a a GOV.UK-styled React + Vite application for managing tasks. This project has a basic UI to connect to the Java SpringBoot backend made in part 1 of the challenge, allowing users to create, view, update, and delete tasks.
+This is a GOV.UK-styled React + Vite application for managing tasks. This project has a basic UI to connect to the Java SpringBoot backend made in part 1 of the challenge, allowing users to create, view, update, and delete tasks.
+
+## Requirements
+
+The frontend should be able to:
+
+- Create, view, update, and delete tasks
+- Display tasks in a user-friendly interface
+
+Repository: https://github.com/hmcts/dts-developer-challenge
 
 ## Features
 - Create, view, update, and delete tasks
